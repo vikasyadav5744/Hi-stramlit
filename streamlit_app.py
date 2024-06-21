@@ -23,8 +23,8 @@ if file1 is not None:
 data=data.replace('-',0)
 data1 = data.copy()
 
-my_strike1= 23100           # strikes for bar charts of OI and Chnage OI
-my_strike2= 23600           # strikes for bar charts of OI and Chnage OI
+my_strike1= 18000           # strikes for bar charts of OI and Chnage OI
+my_strike2= 25000           # strikes for bar charts of OI and Chnage OI
 
 stk_ind1= 2
 stk_ind2= 8
